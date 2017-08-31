@@ -1,0 +1,21 @@
+[
+	{"fulltext":"The Missouri River is the longest river in the United States",
+	    "cloze":"Missouri River"
+	},
+	{"fulltext":"Death Valley is located in California",
+		"cloze":"California"
+	},
+	{"fulltext":" Pierre is the capital of South Dakota",
+		"cloze":"South Dakota"
+	},
+	{"fulltext":"Mount McKinley is the tallest mountain in the United States",
+		"cloze":"Mount McKinley"
+	},
+	{"fulltext":"Rhode Island is the smallest U.S. state",
+		"cloze":"Rhode Island"
+	},	
+
+	{"fulltext":"Lake Okeechobee is located in Florida",
+		"cloze":"Florida"
+	}
+]

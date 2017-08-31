@@ -2,7 +2,7 @@ function BasicCard(front, back) {
     this.front = front;
     this.back = back;
     this.printCard =  function() {
-        console.log(back + " " + front);
+        console.log(front + " " + back);
         console.log("\n_________________\n");
     }
 }
@@ -15,4 +15,4 @@ console.log(firstPresident.front);
 console.log(firstPresident.back);
 firstPresident.printCard();
 
-module.exports = BasicCard
+module.exports = BasicCard;

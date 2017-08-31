@@ -1,0 +1,26 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "backended and basic API that allows users to create two types of flashcards",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criveraj/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "cloze",
+    "flashcards"
+  ],
+  "author": "CR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criveraj/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/criveraj/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
